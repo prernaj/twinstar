@@ -4,7 +4,7 @@ WHY
 First things first... increase focus
 
 WHAT
-WAP to blocking social sites during office hours.
+WAP to block social sites during office hours.
 
 HOW
 redirect the websites to localhost by appending it to /etc/hosts file.
